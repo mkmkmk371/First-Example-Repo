@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+
+int main(){
+
+
+
+
+printf("%ssada");
+int a;
+int b;
+print""[Dasdas
+return 0;
